@@ -1,0 +1,14 @@
+{
+  "name": "refactoring_workspace",
+  "version": "1.0.0",
+  "description": "refactoring",
+  "main": "index.js",
+  "scripts": {
+    "test":"mocha index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.0.2"
+  }
+}
